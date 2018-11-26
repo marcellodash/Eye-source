@@ -20,3 +20,6 @@ Total créditos ao $elf#7580 pelo webdesign. De mais códigos, tais como php, fo
 
 ### Bot (Discord)
 Estarei disponibilizando a source code do bot também. Ele é necessário para que o programa funcione, caso for usado o sistema de pin do eye.
+
+## Bot Credits
+Bom, eu(Six#0590) que codei isto do zero, se caso você quiser começar por essa source ou usar algo dela, tudo bem. Não é necessário me dar créditos algum, eu gosto de ajudar sem precisar de reconhecimento.
