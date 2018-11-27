@@ -12,7 +12,7 @@ Bom, eu(Six#0590) que codei isto do zero, se caso você quiser começar por essa
 
 ### WebSite
 
-A source do site Full, estou disponibilizando também. é bem simples mas o website é um grande implemento para a o eye funcionar corretamente.
+A source do site Full, estou disponibilizando também. é bem simples mas o website é um grande implemento para o eye funcionar corretamente.
 
 ### WebSite Credits
 Total créditos ao $elf#7580 pelo webdesign. De mais códigos, tais como php, foram feito por mim (Six#0590)
